@@ -1,0 +1,9 @@
+[submodule "Sunrise-Lasertag-CoreLibrary"]
+	path = Sunrise-Lasertag-CoreLibrary
+	url = https://github.com/realMorgon/Sunrise-Lasertag-CoreLibrary.git
+[submodule "Sunrise-Lasertag-Server"]
+	path = Sunrise-Lasertag-Server
+	url = https://github.com/realMorgon/Sunrise-Lasertag-Server.git
+[submodule "Sunrise-Lasertag-Devices"]
+	path = Sunrise-Lasertag-Devices
+	url = https://github.com/realMorgon/Sunrise-Lasertag-Devices.git
